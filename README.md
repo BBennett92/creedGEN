@@ -13,6 +13,18 @@ come in handy for you! Prints 'creed' with a combination
 of 3 numbers as the clue states such as 'creed123, creed456, etc.'
 enjoy this if you find it!
 
+To install:
+
+sudo git clone https://github.com/BBennett92/creedGEN
+
+cd creedGEN 
+
+sudo unzip creedGEN.zip
+
+sudo python creedGEN.py
+
+
+
 
 [readme.txt](https://github.com/BBennett92/creedGEN/files/10299291/readme.txt)
 
